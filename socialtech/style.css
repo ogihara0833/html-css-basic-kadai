@@ -450,3 +450,10 @@ footer {
     margin-right: 30px;
   }
 }
+
+/* AI先生からのアドバイスで追加した */
+@media screen and (min-width: 767px){
+  #menu-sp , #nav-sp {
+    display: none;
+  }
+}
